@@ -7,7 +7,7 @@ By using this freeware, you are agree to the following:
    1. you are free to copy and redistribute the material in any medium or format.
    2. you are free to remix, transform, and build upon the material for any purpose, even commercially.
    3. You must provide the name of the creator and attribution parties, a copyright notice, a license notice, a  
-      disclaimer notice, and a link to the material.
+      disclaimer notice, and a link to the material (https://github.com/maozirui/diffusion.FDM.1D).
    4. Users are entirely at their own risk using this freeware and techniques. 
  Before use, please read the License carefully.
 
@@ -15,3 +15,6 @@ By using this freeware, you are agree to the following:
 Introduction:
 This script is developed to simulate the diffusion phenomenon governed by the diffusion equation in 1D case. The attached is Matlab GUI freeware. 
 
+Author Information
+Zirui Mao | Department of Material Science and Engineering | TAMU
+Date last modified: Jan., 20th, 2020
