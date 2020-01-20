@@ -16,7 +16,7 @@ By using this freeware, you are agree to the following:
 Introduction:
 This script is developed to simulate the diffusion phenomenon governed by the diffusion equation in 1D case. The attached is Matlab GUI freeware. 
 
-Author Information
+Author Information:
 Zirui Mao | Department of Material Science and Engineering | TAMU
 Date last modified: Jan., 20th, 2020
 
