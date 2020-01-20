@@ -9,6 +9,7 @@ By using this freeware, you are agree to the following:
    3. you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a  
       disclaimer notice, and a link to the material (https://github.com/maozirui/diffusion.FDM.1D).
    4. users are entirely at their own risk using this freeware and techniques. 
+ 
  Before use, please read the License carefully.
 
  
