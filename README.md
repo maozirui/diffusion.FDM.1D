@@ -19,3 +19,15 @@ This script is developed to simulate the diffusion phenomenon governed by the di
 Author Information
 Zirui Mao | Department of Material Science and Engineering | TAMU
 Date last modified: Jan., 20th, 2020
+
+How to use this freeware:
+1. Download the documents 'Diffusion.m' and 'Diffusion.fig'; 
+2. Open the 'Difussion.m' with Matlab.              
+3. Before running it, please ensure the two documents locate in the same folder.                                               
+4. Click 'Run' in Matlab toolstrip under 'EDITOR'. 
+5. The GUI (User Interface) shall show up.
+6. Specify the values for each user-define parameters;     
+7. Click the 'Run' botton in GUI when everything is ready;  
+8. The instant result will be plotted in the right panel;   
+9. Click the 'Stop' button in GUI to stop the calculation at any time;
+10. An animation will be saved in the document-located folder after each time of calculation. Please rename it immediately otherwiseit will be overwritten.
